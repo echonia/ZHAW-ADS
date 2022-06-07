@@ -1,4 +1,5 @@
 # ZHAW-ADS Projektarbeit
+
 Informationen zur Projektarbeit (max. 12 Punkte)
 
 Mindestanforderung an die Projektarbeit (max. 4 Punkte):
@@ -30,4 +31,5 @@ Abzugeben sind als .zip-Datei mit der Gruppennummer, z.B. Projektarbeit_ADS_FS20
      - Methode & Vorgehensweise
      - Diskussion & Ergebnisse
      - Schlussfolgerungen
-     - Link zu Github repository mit allen Materialien (Daten, Jupyter Notebooks, etc.)![image](https://user-images.githubusercontent.com/97635087/172413485-6d08d5c8-a0a0-4f71-b174-9c85f958fd84.png)
+     - Link zu Github repository mit allen Materialien (Daten, Jupyter Notebooks, etc.)![image](https://user-images.githubusercontent.com/97635087/172413859-5a70cff3-bc71-48cc-8c83-b70427eccc84.png)
+
