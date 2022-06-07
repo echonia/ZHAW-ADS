@@ -11,6 +11,7 @@ Das Projekt muss mehrere im Modul vorgestellte Themen integrieren, im Minimum si
 (4) Versionierung und Verfügbarmachen der Daten und des Modells über GitHub
 
 Zusatzpunkte für Projektarbeit, falls folgendes erfüllt (max. 5 Punkte):
+
 Kreativität der Umsetzung (kreativ ist alles, was in den Lektionen und Übungen nicht vorgegeben wurde)
 Verwendung von sowohl Web Scraping als auch API's für den Datenbezug
 Verwendung von Docker oder eines Cloud-Services (z.B. EC2-Instance, Jupyter-Notebook via Sagemaker)
